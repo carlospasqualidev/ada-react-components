@@ -1,6 +1,13 @@
 {
   "version": "0.0.0",
-  "author": "carlospasqualidev",
+  "contributors": [
+    "Carlos Pasquali <carlos.pasquali.dev@gmail.com>",
+    "Jorge Andrade <jorgeld.andrade@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlospasqualidev/ada-react-components"
+  },
   "name": "ada-react-components",
   "scripts": {
     "dev": "vite",
@@ -51,4 +58,3 @@
     }
   }
 }
-
